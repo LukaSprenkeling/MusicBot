@@ -1,1 +1,1 @@
-
+CommandWhitelist = flarebot.stop flarebot.play flarebot.search flarebot.skip flarebot.pause 	flarebot.leave
