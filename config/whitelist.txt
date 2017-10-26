@@ -1,1 +1,1 @@
-
+CommandWhitelist = 	flarebot.stop	flarebot.join flarebot.song flarebot.info 
