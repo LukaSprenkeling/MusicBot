@@ -1,1 +1,1 @@
-
+Commandwhitelist =  flarebot.skip.force
