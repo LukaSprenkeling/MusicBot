@@ -1,1 +1,1 @@
-
+CommandWhitelist = flarebot.force flarebot.pause
